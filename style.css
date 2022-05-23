@@ -1,0 +1,32 @@
+.box_logo{
+    height: 80px;
+}
+
+ul li{
+    list-style: none;   
+    display: inline-block;
+    padding-right: 1rem;
+    font-weight: 500;
+}
+
+ul{
+    padding-bottom: 1rem;
+    border-bottom: solid 1px gray;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: #3367D6;
+    border-bottom: solid 3px #3367D6;
+    padding-bottom: 1rem;
+}
+
+.active{
+    color: #3367D6;
+    border-bottom: solid 3px #3367D6;
+    padding-bottom: 1rem;
+}
